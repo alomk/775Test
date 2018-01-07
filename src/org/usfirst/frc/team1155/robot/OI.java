@@ -39,7 +39,7 @@ public class OI {
 	public OI(){
 		mainJoystick = new Joystick(PortMap.JOYSTICK);
 	}
-	}
+	
 	
 	
 	
